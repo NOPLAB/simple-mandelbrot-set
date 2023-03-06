@@ -1,0 +1,12 @@
+{
+    "nuxt.isNuxtApp": false,
+    "files.associations": {
+        "*.scala": "scala",
+        "stdio.h": "c",
+        "complex.h": "c",
+        "__bit_reference": "c",
+        "bitset": "c",
+        "chrono": "c",
+        "unordered_map": "c"
+    }
+}
